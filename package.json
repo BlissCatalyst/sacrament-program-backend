@@ -24,5 +24,7 @@
     "jest": "^24.8.0",
     "nodemon": "^1.19.1",
     "supertest": "^4.0.2"
-  }
+  },
+  "repository": "https://github.com/BlissCatalyst/sacrament-program-backend.git",
+  "author": "Logan Hufstetler <logan.hufstetler@gmail.com>"
 }
